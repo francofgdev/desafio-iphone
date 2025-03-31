@@ -9,7 +9,7 @@
 
 ## Descrição 
 <p align="justify">
-Este repositório contém o projeto `tocar()` desenvolvido como parte do Módulo " Programação Orientada a Objetos com Java" do Bootcamp Bradesco - Java Cloud Native 2025.</p>
+Este repositório contém o projeto "DesafioIphone" desenvolvido como parte do Módulo " Programação Orientada a Objetos com Java" do Bootcamp Bradesco - Java Cloud Native 2025.</p>
 
 ## Desafio - Modelagem e Diagramação de um Componente iPhone
 
